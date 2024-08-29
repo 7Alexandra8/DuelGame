@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DuelGame/static/css/main.8391cad3.css",
+    "main.js": "/DuelGame/static/js/main.247edd42.js",
+    "index.html": "/DuelGame/index.html",
+    "main.8391cad3.css.map": "/DuelGame/static/css/main.8391cad3.css.map",
+    "main.247edd42.js.map": "/DuelGame/static/js/main.247edd42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8391cad3.css",
+    "static/js/main.247edd42.js"
+  ]
+}
